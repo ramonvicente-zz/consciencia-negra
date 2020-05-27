@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/consciencia-negra/static/css/main.5f361e03.chunk.css",
-    "main.js": "/consciencia-negra/static/js/main.a246648e.chunk.js",
-    "main.js.map": "/consciencia-negra/static/js/main.a246648e.chunk.js.map",
+    "main.js": "/consciencia-negra/static/js/main.2b135afb.chunk.js",
+    "main.js.map": "/consciencia-negra/static/js/main.2b135afb.chunk.js.map",
     "runtime-main.js": "/consciencia-negra/static/js/runtime-main.ffd8dd60.js",
     "runtime-main.js.map": "/consciencia-negra/static/js/runtime-main.ffd8dd60.js.map",
     "static/js/2.af0d43c3.chunk.js": "/consciencia-negra/static/js/2.af0d43c3.chunk.js",
     "static/js/2.af0d43c3.chunk.js.map": "/consciencia-negra/static/js/2.af0d43c3.chunk.js.map",
     "index.html": "/consciencia-negra/index.html",
-    "precache-manifest.030bb37e147a581862a1eafd03e0d0c0.js": "/consciencia-negra/precache-manifest.030bb37e147a581862a1eafd03e0d0c0.js",
+    "precache-manifest.347ca48d808d96da3898b81b94c89728.js": "/consciencia-negra/precache-manifest.347ca48d808d96da3898b81b94c89728.js",
     "service-worker.js": "/consciencia-negra/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/consciencia-negra/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.af0d43c3.chunk.js.LICENSE.txt": "/consciencia-negra/static/js/2.af0d43c3.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ffd8dd60.js",
     "static/js/2.af0d43c3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a246648e.chunk.js"
+    "static/js/main.2b135afb.chunk.js"
   ]
 }

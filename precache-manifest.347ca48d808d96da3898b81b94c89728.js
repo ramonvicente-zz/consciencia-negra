@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f32048fe695cfcc74aadbde9562ad6e",
+    "revision": "100391f5bf5e4873d03eeb0a6ed5c27b",
     "url": "/consciencia-negra/index.html"
   },
   {
-    "revision": "066322c2010f409e5a85",
+    "revision": "ca6a9e07c7a96a819181",
     "url": "/consciencia-negra/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/consciencia-negra/static/js/2.af0d43c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "066322c2010f409e5a85",
-    "url": "/consciencia-negra/static/js/main.a246648e.chunk.js"
+    "revision": "ca6a9e07c7a96a819181",
+    "url": "/consciencia-negra/static/js/main.2b135afb.chunk.js"
   },
   {
     "revision": "ed2f052ac91460217385",
