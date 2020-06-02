@@ -1,13 +1,24 @@
-const { openBrowser, goto, text, closeBrowser } = require('taiko');
-step ("ver texto", (async () => {
-    try {
-        await openBrowser();
+/* globals gauge*/
+"use strict";
+const { openBrowser, closeBrowser, goto, highlight } = require('taiko');
+const headless = process.env.headless_chrome.toLowerCase() === 'true';
+ 
+beforeSuite(async () => {
+    await openBrowser({ headless: headless })
+});
+ 
+afterSuite(async () => {
+    await closeBrowser();
+});
+ 
+step ("Acessar o site consciência negra",
+    (async () => {
         await goto("https://yurisilva.github.io/consciencia-negra");
-        await highlight("Awesome project coming soon.");
-    } catch (error) {
-        console.error(error);
-    } finally {
-        await closeBrowser();
-    }
-}))();
-
+   })
+);
+ 
+step("Ver o texto <citacao>",
+    (async (citacao) =>{
+        await highlight(`${citacao}`);
+    })
+);
