@@ -1,0 +1,19 @@
+.welcome {
+    background-color: #BDBDBD;
+    padding: 50px;
+    font-size: x-large;
+    text-align: center;
+}
+
+.logo{
+    margin: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.banner{
+    width: auto;
+    height: 100vh;
+    background-color: #454545;
+}
