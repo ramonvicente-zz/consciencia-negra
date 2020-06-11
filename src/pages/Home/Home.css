@@ -15,5 +15,10 @@
 .banner{
     width: auto;
     height: 100vh;
-    background-color: #454545;
+   
+}
+
+body {  
+    background-image: url("../../assets/colagem.png");  
+    background-repeat: repeat;
 }

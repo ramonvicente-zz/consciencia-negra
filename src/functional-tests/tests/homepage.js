@@ -13,7 +13,7 @@ afterSuite(async () => {
  
 step ("Acessar o site consciência negra",
     (async () => {
-        await goto("https://yurisilva.github.io/consciencia-negra");
+        await goto("http://localhost:3000/consciencia-negra");
    })
 );
  
