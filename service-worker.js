@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/consciencia-negra/precache-manifest.347ca48d808d96da3898b81b94c89728.js"
+  "/consciencia-negra/precache-manifest.88bfa8c14a5015855349f6b00f18350f.js"
 );
 
 self.addEventListener('message', (event) => {

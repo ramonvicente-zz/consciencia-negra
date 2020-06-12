@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/consciencia-negra/static/css/main.5f361e03.chunk.css",
-    "main.js": "/consciencia-negra/static/js/main.2b135afb.chunk.js",
-    "main.js.map": "/consciencia-negra/static/js/main.2b135afb.chunk.js.map",
+    "main.css": "/consciencia-negra/static/css/main.8aae9aab.chunk.css",
+    "main.js": "/consciencia-negra/static/js/main.b4944c49.chunk.js",
+    "main.js.map": "/consciencia-negra/static/js/main.b4944c49.chunk.js.map",
     "runtime-main.js": "/consciencia-negra/static/js/runtime-main.ffd8dd60.js",
     "runtime-main.js.map": "/consciencia-negra/static/js/runtime-main.ffd8dd60.js.map",
-    "static/js/2.af0d43c3.chunk.js": "/consciencia-negra/static/js/2.af0d43c3.chunk.js",
-    "static/js/2.af0d43c3.chunk.js.map": "/consciencia-negra/static/js/2.af0d43c3.chunk.js.map",
+    "static/js/2.5a7dac67.chunk.js": "/consciencia-negra/static/js/2.5a7dac67.chunk.js",
+    "static/js/2.5a7dac67.chunk.js.map": "/consciencia-negra/static/js/2.5a7dac67.chunk.js.map",
     "index.html": "/consciencia-negra/index.html",
-    "precache-manifest.347ca48d808d96da3898b81b94c89728.js": "/consciencia-negra/precache-manifest.347ca48d808d96da3898b81b94c89728.js",
+    "precache-manifest.88bfa8c14a5015855349f6b00f18350f.js": "/consciencia-negra/precache-manifest.88bfa8c14a5015855349f6b00f18350f.js",
     "service-worker.js": "/consciencia-negra/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/consciencia-negra/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.af0d43c3.chunk.js.LICENSE.txt": "/consciencia-negra/static/js/2.af0d43c3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/consciencia-negra/static/media/logo.5d5d9eef.svg"
+    "static/css/main.8aae9aab.chunk.css.map": "/consciencia-negra/static/css/main.8aae9aab.chunk.css.map",
+    "static/js/2.5a7dac67.chunk.js.LICENSE.txt": "/consciencia-negra/static/js/2.5a7dac67.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/consciencia-negra/static/media/logo.f9afb284.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ffd8dd60.js",
-    "static/js/2.af0d43c3.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2b135afb.chunk.js"
+    "static/js/2.5a7dac67.chunk.js",
+    "static/css/main.8aae9aab.chunk.css",
+    "static/js/main.b4944c49.chunk.js"
   ]
 }
